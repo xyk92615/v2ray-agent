@@ -1,5 +1,7 @@
 # 原作者：mack-a
 # 原项目地址： https://github.com/mack-a/v2ray-agent
+# fork项目地址： https://github.com/mack-a/v2ray-agent
+# 连接不可用时，替换reeceyng/v2ray-agent为xyk92615/v2ray-agent
 
 # v2ray-agent
 
